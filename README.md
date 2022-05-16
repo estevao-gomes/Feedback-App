@@ -9,7 +9,6 @@
 This an project was made using the following tech stack:
 
 -HTML
-
 -CSS
 
 -TypeScript
