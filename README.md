@@ -8,20 +8,14 @@
 
 This an project was made using the following tech stack:
 
--HTML
--CSS
-
--TypeScript
-
--React
-
--TailwindCSS
-
--NodeJS
-
--Express
-
--SQLite
+-HTML  
+-CSS  
+-TypeScript  
+-React  
+-TailwindCSS  
+-NodeJS  
+-Express  
+-SQLite  
 
 
 ###The Project
