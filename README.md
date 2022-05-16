@@ -1,6 +1,6 @@
 <h1 align="center">Feedback App</h1>
 
-<img align="center" src="https://i.imgur.com/NLlQLb3.png" alt="Feedback App Image"/>
+<p align="center"><img src="https://i.imgur.com/NLlQLb3.png" alt="Feedback App Image"/></p>
 
 <br/>
 
