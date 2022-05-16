@@ -1,8 +1,6 @@
-# Feedback-App
-
 <h1 align="center">Feedback App</h1>
 
-<img src="https://i.imgur.com/NLlQLb3.png" alt="Feedback App Image"/>
+<img align="center" src="https://i.imgur.com/NLlQLb3.png" alt="Feedback App Image"/>
 
 <br/>
 
