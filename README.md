@@ -2,7 +2,7 @@
 
 <h1 align="center">Feedback App</h1>
 
-<img src="https://imgur.com/NLlQLb3" alt="Feedback App Image"/>
+<img src="https://i.imgur.com/NLlQLb3.png" alt="Feedback App Image"/>
 
 <br/>
 
