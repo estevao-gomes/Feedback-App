@@ -1,0 +1,26 @@
+# Feedback-App
+
+<h1 align="center">Feedback App</h1>
+
+<img src="https://imgur.com/NLlQLb3" alt="Feedback App Image"/>
+
+<br/>
+
+### FeedbackApp
+
+This an project was made using the following tech stack:
+-HTML
+-CSS
+-TypeScript
+-React
+-TailwindCSS
+-NodeJS
+-Express
+-SQLite
+
+###The Project
+This is a simple feedback component, made to be implemented in any React developed application, where the user can share feedback with the app owner, which will
+receive said feedback through email. It was made during the NLW-Return Event, from RocketSeat.
+
+
+
