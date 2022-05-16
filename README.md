@@ -7,15 +7,23 @@
 ### FeedbackApp
 
 This an project was made using the following tech stack:
+
 -HTML
 
 -CSS
+
 -TypeScript
+
 -React
+
 -TailwindCSS
+
 -NodeJS
+
 -Express
+
 -SQLite
+
 
 ###The Project
 This is a simple feedback component, made to be implemented in any React developed application, where the user can share feedback with the app owner, which will
