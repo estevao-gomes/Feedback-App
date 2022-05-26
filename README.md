@@ -1,3 +1,5 @@
+Simple React feedback component made with Typescript and Node.
+
 <h1 align="center">Feedback App</h1>
 
 <p align="center"><img src="https://i.imgur.com/NLlQLb3.png" alt="Feedback App Image"/></p>
